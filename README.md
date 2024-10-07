@@ -9,4 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1894-merge-strings-alternately](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1894-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
