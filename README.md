@@ -23,4 +23,13 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0443-string-compression) |
+| [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
