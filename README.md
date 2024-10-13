@@ -7,6 +7,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
