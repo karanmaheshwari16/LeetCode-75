@@ -21,10 +21,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0443-string-compression) |
 | [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
