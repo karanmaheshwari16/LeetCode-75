@@ -40,6 +40,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0443-string-compression) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -65,4 +66,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
