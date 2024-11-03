@@ -25,12 +25,14 @@
 | [0151-reverse-words-in-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0443-string-compression) |
 | [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
