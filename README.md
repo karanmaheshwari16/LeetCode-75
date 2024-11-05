@@ -46,6 +46,7 @@
 | [0443-string-compression](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
