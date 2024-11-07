@@ -18,6 +18,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1833-find-the-highest-altitude) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/0921-spiral-matrix-iii) |
+## Counting
+|  |
+| ------- |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/karanmaheshwari16/LeetCode-75/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 <!---LeetCode Topics End-->
